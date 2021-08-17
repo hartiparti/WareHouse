@@ -1,0 +1,68 @@
+{
+    "orders": [
+        {
+            "items": [
+                {
+                    "SoldOut": false,
+                    "description": "Table and two chairs",
+                    "height": 120,
+                    "image": "ekedalen.jpg",
+                    "itemId": "1",
+                    "location": "A1",
+                    "name": "ekedalen",
+                    "quantity": 1,
+                    "timeCreated": "Sat Apr 3 18:01:51 2021",
+                    "width": 122
+                },
+                {
+                    "SoldOut": false,
+                    "description": "TV table",
+                    "height": 120,
+                    "image": "kornsjo.jpg",
+                    "itemId": "2",
+                    "location": "A2",
+                    "name": "kornsjo",
+                    "quantity": 2,
+                    "timeCreated": "Sat Apr 3 18:01:51 2021",
+                    "width": 122
+                }
+            ],
+            "orderId": "1",
+            "orderReady": true,
+            "orderStatus": "new",
+            "timeStamp": "Sat Apr 3 18:01:51 2021"
+        },
+        {
+            "items": [
+                {
+                    "SoldOut": false,
+                    "description": "Table and two chairs",
+                    "height": 120,
+                    "image": "ekedalen.jpg",
+                    "itemId": "1",
+                    "location": "A1",
+                    "name": "ekedalen",
+                    "quantity": 1,
+                    "timeCreated": "Sat Apr 3 18:01:51 2021",
+                    "width": 122
+                },
+                {
+                    "SoldOut": false,
+                    "description": "bed that can be resize",
+                    "height": 120,
+                    "image": "sundvik.jpg",
+                    "itemId": "3",
+                    "location": "A3",
+                    "name": "Sundvik",
+                    "quantity": 1,
+                    "timeCreated": "2019-10-11T09:21:04.981Z",
+                    "width": 122
+                }
+            ],
+            "orderId": "2",
+            "orderReady": false,
+            "orderStatus": "new",
+            "timeStamp": "Sat Apr 3 18:01:51 2021"
+        }
+    ]
+}

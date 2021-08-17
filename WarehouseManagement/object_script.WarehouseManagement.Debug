@@ -1,0 +1,15 @@
+debug/additemdialog.o
+debug/finalorderdialog.o
+debug/item.o
+debug/itemservice.o
+debug/itemtree.o
+debug/jsonparser.o
+debug/main.o
+debug/mainwindow.o
+debug/neworderdialog.o
+debug/order.o
+debug/orderservice.o
+debug/moc_additemdialog.o
+debug/moc_finalorderdialog.o
+debug/moc_mainwindow.o
+debug/moc_neworderdialog.o

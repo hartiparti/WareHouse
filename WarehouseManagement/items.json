@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "SoldOut": false,
+            "description": "Table and two chairs",
+            "height": 120,
+            "image": "ekedalen.jpg",
+            "inStock": 7,
+            "itemId": "1",
+            "location": "A1",
+            "name": "ekedalen",
+            "timeCreated": "Sat Apr 3 18:01:51 2021",
+            "width": 80
+        },
+        {
+            "SoldOut": false,
+            "description": "TV table",
+            "height": 120,
+            "image": "kornsjo.jpg",
+            "inStock": 6,
+            "itemId": "2",
+            "location": "A2",
+            "name": "kornsjo",
+            "timeCreated": "Sat Apr 3 18:01:51 2021",
+            "width": 122
+        },
+        {
+            "SoldOut": false,
+            "description": "bed that can be resized",
+            "height": 200,
+            "image": "sundvik.jpg",
+            "inStock": 0,
+            "itemId": "3",
+            "location": "A3",
+            "name": "sundvik",
+            "timeCreated": "Sat Apr 3 18:01:51 2021",
+            "width": 120
+        }
+    ]
+}

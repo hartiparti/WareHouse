@@ -1,0 +1,15 @@
+release/additemdialog.o
+release/finalorderdialog.o
+release/item.o
+release/itemservice.o
+release/itemtree.o
+release/jsonparser.o
+release/main.o
+release/mainwindow.o
+release/neworderdialog.o
+release/order.o
+release/orderservice.o
+release/moc_additemdialog.o
+release/moc_finalorderdialog.o
+release/moc_mainwindow.o
+release/moc_neworderdialog.o

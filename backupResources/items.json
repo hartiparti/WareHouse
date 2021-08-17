@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "SoldOut": false,
+            "description": "Table and two chairs",
+            "height": 120,
+            "image": "ekedalen.jpg",
+            "inStock": 10,
+            "itemId": "1",
+            "location": "A1",
+            "name": "ekedalen",
+            "timeCreated": "Sat Apr 3 18:01:51 2021",
+            "width": 80
+        },
+        {
+            "SoldOut": false,
+            "description": "TV table",
+            "height": 120,
+            "image": "kornsjo.jpg",
+            "inStock": 10,
+            "itemId": "2",
+            "location": "A2",
+            "name": "kornsjo",
+            "timeCreated": "Sat Apr 3 18:01:51 2021",
+            "width": 122
+        },
+        {
+            "SoldOut": false,
+            "description": "bed that can be resized",
+            "height": 200,
+            "image": "sundvik.jpg",
+            "inStock": 8,
+            "itemId": "3",
+            "location": "A3",
+            "name": "sundvik",
+            "timeCreated": "Sat Apr 3 18:01:51 2021",
+            "width": 120
+        },
+        {
+            "SoldOut": false,
+            "description": "5",
+            "height": 5,
+            "image": "pax.jfif",
+            "inStock": 7,
+            "itemId": "4",
+            "location": "A4",
+            "name": "snurf",
+            "timeCreated": "Tue Apr 6 13:09:18 2021",
+            "width": 5
+        },
+        {
+            "SoldOut": false,
+            "description": "aaa",
+            "height": 2,
+            "image": "ekedalen.jpg",
+            "inStock": 10,
+            "itemId": "5",
+            "location": "A1",
+            "name": "s",
+            "timeCreated": "Tue Apr 6 21:06:53 2021",
+            "width": 2
+        },
+        {
+            "SoldOut": false,
+            "description": "Fun gun",
+            "height": 20,
+            "image": "sundvik.jpg",
+            "inStock": 7,
+            "itemId": "6",
+            "location": "A5",
+            "name": "James",
+            "timeCreated": "Wed Apr 7 11:50:45 2021",
+            "width": 20
+        }
+    ]
+}
